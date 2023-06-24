@@ -31,7 +31,7 @@ struct ContentView: View {
                     message = "Oh nooooooooooo 😱"
                 }
             } label: {
-                Text("OM NOM NOM")
+                Text("Click ME to Eat Cookie")
                     .padding()
                     .background(.blue)
                     .foregroundColor(.white)
